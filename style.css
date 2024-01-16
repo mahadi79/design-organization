@@ -151,7 +151,7 @@ header{
     width: 20%;
     height: auto;
     background: magenta;
-    /* float: left; */
+    margin-right: 4%;
 }
 
 ul li{
@@ -166,6 +166,12 @@ ul li{
     height: 50px;
 }
 
+
+.container-2 {
+    width: 1000px;
+    margin: auto;
+    display: flex;
+}
 
 /* RESPONSIVE DESIGN */
 
